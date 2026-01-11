@@ -1,4 +1,3 @@
-# Pixel-art-maker
 # Pixel Art Creator – Draw Pixel Art Using Reference Images
 
 PixelArtCreator is a free online pixel art maker that allows users to draw pixel art
