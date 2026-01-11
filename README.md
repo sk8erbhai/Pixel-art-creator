@@ -19,3 +19,4 @@ by tracing a reference image on a pixel grid.
 🌐 Try it here:
 https://pixelartcreator.com
 
+![Pixel Art Creator Screenshot](Screenshot 2026-01-11 053252.png)
