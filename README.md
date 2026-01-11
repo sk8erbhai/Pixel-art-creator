@@ -18,5 +18,5 @@ by tracing a reference image on a pixel grid.
 
 🌐 Try it here:
 https://pixelartcreator.com
-![Pixel Art Creator Screenshot](Screenshot 2026-01-11 053252.png)
+![Pixel Art Creator Screenshot]([Screenshot 2026-01-11 053252.png](https://github.com/sk8erbhai/Pixel-art-creator/blob/main/Screenshot%202026-01-11%20053252.png))
 
